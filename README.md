@@ -1,2 +1,3 @@
 # ML_practice
 Just a repo for playing with different DNN architectures. Currently applying them to stellar spectra to predict star features.
+The code is very experimental and in the debugging phase right now! Apologies for the mess...
